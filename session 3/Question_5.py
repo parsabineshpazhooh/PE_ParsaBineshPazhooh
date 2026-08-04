@@ -9,3 +9,4 @@ elif operator == "*":
     print(number_1 * number_2)
 elif operator == "/":
     print(number_1 / number_2)
+
